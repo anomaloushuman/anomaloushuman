@@ -5,13 +5,13 @@
 My name is Patrick Garcia (anomaloushuman), I'm a technology-driven entrepreneur and innovator, dedicated to transforming conventional human experiences through automation, AI, and open-source solutions. As the founder of NextGen AutoGlass and now Ubiquity Automotive / AutoGlass, I've specialized in leveraging unique technologies like AI, LiDAR, VR/AR, Native Applications and Backend Cloud Networks while harnessing my mastery of the OSI Model and its components in the design, development, and deployment of real-world applications.
 
 # I possess expertise in:
-Understanding, developing, designing, and deploying all aspects of the OSI Model.
-Artificial Intelligence - 3D Point Segmentation, 2D Image Segmentation, Classification, OCR, Object Detection, LLM's, LAM's
-Custom kernel and specialized operating system design & development.
-Developing and publishing native cross platform applications.
-Leveraging real-time data to streamline AI comprehension.
-Writing custom kernel drivers to extend AI systems and automation engines.
-Constructing backend server ecosystems for scalable AI operations.
+- Understanding, developing, designing, and deploying all aspects of the OSI Model.
+- Artificial Intelligence - 3D Point Segmentation, 2D Image Segmentation, Classification, OCR, Object Detection, LLM's, LAM's
+- Custom kernel and specialized operating system design & development.
+- Developing and publishing native cross platform applications.
+- Leveraging real-time data to streamline AI comprehension.
+- Writing custom kernel drivers to extend AI systems and automation engines.
+- Constructing backend server ecosystems for scalable AI operations.
 <!--
 ## 🔥 Key Projects & Innovations
 
