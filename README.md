@@ -2,25 +2,25 @@
 
 # 🚀 About Me
 
-I'm Patrick Garcia (anomaloushuman), a technology-driven entrepreneur and innovator, dedicated to transforming conventional human experiences through automation, AI, and open-source solutions. As the founder of NextGen AutoGlass and Ubiquity Automotive, I specialize in leveraging specialized technologies like AI, LiDAR, and VR/AR while mastering the OSI Model and its components in real-world applications.
+My name is Patrick Garcia (anomaloushuman), I'm a technology-driven entrepreneur and innovator, dedicated to transforming conventional human experiences through automation, AI, and open-source solutions. As the founder of NextGen AutoGlass and now Ubiquity Automotive / AutoGlass, I've specialized in leveraging unique technologies like AI, LiDAR, VR/AR, Native Applications and Backend Cloud Networks while harnessing my mastery of the OSI Model and its components in the design, development, and deployment of real-world applications.
 
 # I possess expertise in:
 Understanding, developing, designing, and deploying all aspects of the OSI Model.
-Compiling entire AI stacks, including 2D segmentation, classification, OCR, and object detection.
-Building custom kernels for specialized operating systems.
-Writing bootloaders and managing the EFI process.
-Developing and publishing mobile applications.
-Leveraging AR/VR in real-time environments to streamline AI comprehension.
+Artificial Intelligence - 3D Point Segmentation, 2D Image Segmentation, Classification, OCR, Object Detection, LLM's, LAM's
+Custom kernel and specialized operating system design & development.
+Developing and publishing native cross platform applications.
+Leveraging real-time data to streamline AI comprehension.
 Writing custom kernel drivers to extend AI systems and automation engines.
 Constructing backend server ecosystems for scalable AI operations.
-Engineering a fully open-source alternative to AWS and Microsoft Azure.
-
+<!--
 ## 🔥 Key Projects & Innovations
 
+# 🔹 Xymbi Corporation
+Xymbi Corporation was a Houston-based startup focused on revolutionizing daily technology use. I developed an operating system called xyOS, which enabled users to run native Windows and Mac OS applications on the same system. While out seeking investment at the NextGen Summit in Austin TX I fell victim to an attack which was premeditated. I came home to my system completely wiped and unbootable, years of dedication was wiped from my existence purposefully at the same time our website was hacked and taken offline. 
+With an orchestrated hack such as one accomplished against me, I felt utterly defeated and gave up on the pursuit of a multi-dimensional Operating System that included translation layers for different operating systems and a hardware, a feat that took years to accomplish. To have internal and external systems disks completely wiped and a breach of that catastrophe led to the immediate halt on further development.
+
 # 🔹 NextGen AutoGlass
-Disrupted the automotive glass industry with AI-driven automation in the service industry.
-Developed GlassEye, an AI-powered camera-based glass identification system.
-Iris AI & TesseractOS: Automating service procurement with advanced AI models.
+Disrupted the automotive glass industry with AI-driven service automation in the glass replacement industry. Providing service 24/7/365 on over 10K vehicles throughout the State of Texas for Hertz Rent-A-Car in 2020-2021 generating over 2.7M in revenue over its inagural 12 months of service existence. 
 
 # 🔹 TesseractOS
 A custom-built Unix, non-POSIX compliant OS for real-time AI-driven automation.
