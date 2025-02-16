@@ -1,8 +1,6 @@
-## 👋 Welcome to My GitHub Profile
-
 # 🚀 About Me
 
-My name is Patrick Garcia (anomaloushuman), I'm a technology-driven entrepreneur and innovator, dedicated to transforming conventional human experiences through automation, AI, and open-source solutions. As the founder of NextGen AutoGlass and now Ubiquity Automotive / AutoGlass, I've specialized in leveraging unique technologies like AI, LiDAR, VR/AR, Native Applications and Backend Cloud Networks while harnessing my mastery of the OSI Model and its components in the design, development, and deployment of real-world applications.
+I'm a technology-driven entrepreneur and innovator, dedicated to transforming conventional human experiences through automation, AI, and open-source solutions. As the founder of NextGen AutoGlass and now Ubiquity Automotive / AutoGlass, I've specialized in leveraging unique technologies like AI, LiDAR, VR/AR, Native Applications and Backend Cloud Networks while harnessing my mastery of the OSI Model and its components in the design, development, and deployment of real-world applications.
 
 # I possess expertise in:
 - Understanding, developing, designing, and deploying all aspects of the OSI Model.
