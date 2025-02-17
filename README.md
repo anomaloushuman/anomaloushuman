@@ -24,6 +24,60 @@ Secondary (Programming & Technical):
 - AI & Data Science: Python (ML/DL), Jinja
 - Database & Query Languages: MySQL, SQL, GraphQL
 
+# 👨🏻‍💻 Prior Industry Experience
+## Paid Internship - Oil & Gas (2013 - 2014)
+Software Engineering Intern, ION Geophysical
+- Developed a code documentation system using DoxyGen, improving maintainability across 1M+ lines of code.
+- Contributed to CUDA development for ION's BASIN SPAN & Prometheus Software Suite, enhancing GPU-accelerated geophysical processing.
+- Designed Trade Show Marketing Software using KDE's Marble mapping platform, integrating marketing with technical solutions.
+- Provided corporate IT support, including imaging/administering devices, ensuring operational efficiency.
+
+## Freelance Work - Medical & Automotive (2014 - 2015)
+Front End Web Development, Texas Direct Auto
+- Developed front end instant search functionality for TDA's vehicle inventory (AJAX/Jquery) based on multiple vehicle data points, including vin, year make model, features (heated seats, red, leather), trim, etc.
+
+Website Development, Family Practice Doctors
+- Developed website for Family Practice Doctors in Humble TX.
+- Designed logo based on client vision
+
+Website Development, NexIT Group
+- Designed and developed website, logo, and content.
+
+# Milestone 01 - Founded Xymbi Corporation (2015)
+🖥️ Developed xyOS – A Unified, Cross-Platform, Cloud-Based Operating System
+
+From 2012 to 2016, while in high school, I developed xyOS, a custom-built multi-platform execution environment that seamlessly unified Windows, macOS, Android, and iOS applications into a single native operating system.
+
+At its core, xyOS was a Linux-based OS that integrated and extended:
+- Wine (Windows compatibility layer)
+- Darling (macOS compatibility layer)
+- Android Runtime (ART) & iOS Mach-O support
+- Advanced game console emulation for PS2, Xbox 360, GameCube, and more
+  
+This resulted in a fully integrated OS capable of running applications from multiple ecosystems natively, without virtualization.
+
+## Key Technical Achievements:
+1. Unified Windows, macOS, Android & iOS Execution
+   - Combined Wine’s NT kernel translation with Darling’s Mach-O binary support to allow applications from Windows and macOS to run natively.
+   - Integrated Android Runtime (ART) and iOS ABI support, allowing native execution of mobile apps.
+   - Implemented a shared binary translation layer that dynamically resolved system calls between Windows, macOS, Android, iOS, and Linux.
+   - Mapped NTFS, HFS+, EXT, and APFS file systems for seamless cross-compatibility.
+
+2. Custom Kernel Modifications for Multi-Platform Support
+Linux kernel modifications to support dynamic binary translation across:
+   - Windows PE (Portable Executable) format
+   - macOS Mach-O binaries
+   - Android ART & Dalvik VM
+   - iOS ARM64 binaries with syscall translation
+   - Integrated a custom syscall proxy to allow Windows DLLs, macOS frameworks, and Linux shared objects (.so) to coexist.
+  
+3. Native Game Console Emulation – PS2, Xbox 360, GameCube, and More
+   - PlayStation 1 & PlayStation 2 – Integrated PCSX2, dynamically patched for native performance on xyOS.
+   - Nintendo 64 & GameCube – Used Dolphin Emulator, enhancing OpenGL/Vulkan support for better game rendering.
+   - Xbox & Xbox 360 – Implemented a hybrid Wine-like translation layer to run XQEMU and early builds of Xenia, enabling execution of native Xbox/Xbox 360 games.
+   - Sony PSP & PlayStation 3 (early builds) – Experimental integration of PPSSPP and preliminary work on RPCS3.  
+
+
 <!--
 ## 🔥 Key Projects & Innovations
 
